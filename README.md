@@ -27,41 +27,6 @@
 
 ---
 
-## 项目结构
-
-（项目树）
-EdgeSP500/
-
-├── data/
-│   ├── raw/
-│   └── processed/
-│
-├── models/
-│   ├── rnn.py
-│   ├── gru.py
-│   └── lstm.py
-│
-├── train/
-│   ├── train_rnn.py
-│   ├── train_gru.py
-│   └── train_lstm.py
-│
-├── deploy/
-│   ├── benchmark.py
-│   └── inference.py
-│
-├── frontend/
-│   └── app.py
-│
-├── utils/
-│   ├── dataset.py
-│   ├── feature.py
-│   └── anomaly.py
-│
-├── results/
-│
-└── requirements.txt
----
 
 ## 环境配置
 
