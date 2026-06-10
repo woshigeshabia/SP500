@@ -69,8 +69,3 @@ streamlit run frontend/app.py
 
 ---
 
-## 作者
-
-XXX
-
-浙江大学城市学院
