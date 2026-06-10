@@ -34,6 +34,7 @@
 pip install -r requirements.txt
 pip install yfinance
 pip install streamlit
+---
 
 ## 数据下载
 
@@ -53,15 +54,5 @@ python train/train_gru.py
 streamlit run frontend/app.py
 ```
 
----
 
-## 实验结果
-
-| Model | RMSE | Latency |
-|--------|--------|--------|
-| RNN | - | - |
-| GRU | - | - |
-| LSTM | - | - |
-
----
 
